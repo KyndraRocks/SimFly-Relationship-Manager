@@ -4,7 +4,7 @@ A single-file relationship-tracking tool for SimFly pilots. Download it, open it
 
 This app pairs with [SimFly Active Airports](https://github.com/KyndraRocks/SimFlyActiveAirports) for flight planning — set up a route in RM Lite, click Launch, and AA opens in a new tab ready to file on SimBrief.
 
-**Current version: v1.0.2**
+**Current version: v1.0.3**
 
 ---
 
